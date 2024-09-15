@@ -2,7 +2,7 @@
 NetPwn3 - Herramienta de Pentesting para Redes
 
 
-A continuación te proporciono una estructura completa de la documentación del proyecto **NetPwn3**, la cual puedes usar para tu repositorio de GitHub. Incluye secciones como la descripción del proyecto, instalación, uso, comandos disponibles y contribución.
+A continuación te proporciono la documentación del proyecto **NetPwn3**
 
 ### README.md
 
