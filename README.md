@@ -194,4 +194,3 @@ Si deseas contribuir a **NetPwn3**, sigue estos pasos:
 ## Licencia
 
 Este proyecto está licenciado bajo la [MIT License](LICENSE).
-```
