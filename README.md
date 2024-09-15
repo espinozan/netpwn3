@@ -2,7 +2,7 @@
 NetPwn3 - Herramienta de Pentesting para Redes
 
 
-A continuación te proporciono la documentación del proyecto **NetPwn3**
+A continuación te proporciono la documentación de la herramienta **NetPwn3**
 
 ### README.md
 
